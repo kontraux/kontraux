@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-### :palm_tree: Hi, I'm Sam :palm_tree: :tropical_drink: :palm_tree: Hi, I'm Sam :palm_tree: :tropical_drink: :t-rex: Hi, I'm Sam :palm_tree:
+:palm_tree: Hi, I'm Sam :palm_tree: :tropical_drink: :palm_tree: Hi, I'm Sam :palm_tree: :tropical_drink: :t-rex: Hi, I'm Sam :palm_tree:
 </p>
 
 <p align="center">
